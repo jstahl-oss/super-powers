@@ -1,5 +1,5 @@
 {
-    "name": "Super Powers",
+    "name": "I got Super Powers in Minecraft",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
